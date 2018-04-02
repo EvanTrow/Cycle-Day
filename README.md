@@ -6,7 +6,7 @@
   <h3 align="center">Cycle Day</h3>
 
   <p align="center">
-    Shows current school cycle day in menu bar.
+    Never ask what day it is again.
     <br>
     <a href="https://cycleday.trowlink.com/docs/"><strong>Explore Cycle Day docs &raquo;</strong></a>
     <br>
