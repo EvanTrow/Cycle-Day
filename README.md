@@ -8,7 +8,7 @@
   <p align="center">
     Shows current school cycle day in menu bar.
     <br>
-    <a href="https://cycleday.trowlink.com/docs/"><strong>Explore TimeUp docs &raquo;</strong></a>
+    <a href="https://cycleday.trowlink.com/docs/"><strong>Explore Cycle Day docs &raquo;</strong></a>
     <br>
   </p>
 </p>
